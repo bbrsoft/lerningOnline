@@ -76,27 +76,12 @@ Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda
 - Internet [Karena menggunakan banyak CDN]
 - Setting lanjutan PHP [max_upload & post_max di php.ini]
 
-<p></p>
 
 <h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
 
 Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
 
-```bash
-# Clone repository ini atau download di
-$ git clone https://github.com/syauqi/learnify.git
 
-# Buat database
-Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
-
-# Upload database
-Arahkan folder ke learnify/database/learnify.sql & upload ke dbms [phpmyadmin]
-
-# Buka browser
-http://localhost/learnify/welcome
-
-# Enjoy, jika ingin login maka liat panduan akun diatas
-```
 
 <p></p>
 
